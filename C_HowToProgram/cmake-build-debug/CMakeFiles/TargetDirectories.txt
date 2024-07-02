@@ -1,0 +1,3 @@
+/Users/emin/gitRepProgC/ProgC/C_HowToProgram/cmake-build-debug/CMakeFiles/C_HowToProgram.dir
+/Users/emin/gitRepProgC/ProgC/C_HowToProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emin/gitRepProgC/ProgC/C_HowToProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
